@@ -86,7 +86,7 @@ Manual diagnosis of anemia is time-consuming and subjective. There's a lack of p
 ## ⚙️ Tech Stack & Requirements
 
 **Languages**  
-- Java (for ML and backend)  
+- Python (for ML and backend)  
 - Dart (Flutter mobile development)
 
 **Frameworks & Tools**  
